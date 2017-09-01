@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Alertmanager [![Build Status](https://travis-ci.org/prometheus/alertmanager.svg?branch=master)][travis]
 
 [![CircleCI](https://circleci.com/gh/prometheus/alertmanager/tree/master.svg?style=shield)][circleci]
@@ -216,3 +217,7 @@ Refer to [ui/app/CONTRIBUTING.md](ui/app/CONTRIBUTING.md).
 [hub]: https://hub.docker.com/r/prom/alertmanager/
 [circleci]: https://circleci.com/gh/prometheus/alertmanager
 [quay]: https://quay.io/repository/prometheus/alertmanager
+=======
+# alertmanager
+modified based on alertmanager
+>>>>>>> ad616ef0c3ffdfbf13e0d016b40306b572c0b8af
